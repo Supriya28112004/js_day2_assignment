@@ -11,6 +11,7 @@ document.querySelector("footer").textContent="&copy; 2025 Donthula Supriya"
 
 //Medium-1//
 
+
 const main=document.getElementById("app-container")
 const header2=document.createElement("h2")
 header2.textContent="About us"
